@@ -1,0 +1,6 @@
+# never commit secrets or license data
+*.pem
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
